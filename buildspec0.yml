@@ -5,7 +5,7 @@ phases:
       - echo 'prebuild'
   build:
     commands:
-      - echo 'Compiling the C Code'
+      - echo 'Compiling the Go Code'
       - sleep 10
   post_build:
     commands:
