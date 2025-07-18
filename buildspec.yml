@@ -9,4 +9,4 @@ phases:
       - sleep 10
   post_build:
     commands:
-      - echo "Would deploy here"
+      - echo "Latest changes"
