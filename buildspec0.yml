@@ -3,6 +3,7 @@ phases:
   pre_build:
     commands:
       - echo 'prebuild'
+      - printenv
   build:
     commands:
       - echo 'Compiling the Java Code'
