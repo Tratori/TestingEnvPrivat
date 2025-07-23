@@ -6,7 +6,7 @@ phases:
       - printenv
   build:
     commands:
-      - echo 'Compiling the Java Code'
+      - echo 'Compiling the Go Code HEllo'
       - sleep 10
   post_build:
     commands:
